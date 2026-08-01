@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7058","@Web UI Controls","","2026-07-30","passed","2026-07-30","","UIBasicstest.spec.js","",""
+"","7599","@web Page Playwright Test ADIDAS ORIGINAL","","2026-07-30","passed","2026-07-30","","ClientAppPageObject.spec.js","",""
+"","6595","@Web Browser context Playwright Test","","2026-07-30","passed","2026-07-30","","UIBasicstest.spec.js","",""
+"","11393","@web Page Playwright Test ZARA COAT 3","","2026-07-30","passed","2026-07-30","","ClientAppPageObject.spec.js","",""
